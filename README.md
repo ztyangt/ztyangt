@@ -1,12 +1,5 @@
 
-
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ztyangt&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-</table>
-
-   <!-- profile logo 个人资料徽标 -->
+  <!-- profile logo 个人资料徽标 -->
   <div align="center" style="margin-bottom: 20px;">
     <a href="https://www.ztyang.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://kodo.ztyang.com/img/wechatqrcode.jpg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
@@ -15,6 +8,15 @@
         <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://visitor-badge.glitch.me/badge?page_id=ztyangt" alt="访客统计" />
   </div>
+  
+  
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ztyangt&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
+
+
   
 
 #  🙋 Hello
