@@ -23,7 +23,7 @@
 #  🙋 Hello
 
 
-<p>&emsp;&emsp;我是相左。</p>
+<p>&emsp;&emsp;我是<strong>相左</strong>。</p>
 <p>&emsp;&emsp;一个擅长煮面的厨师，一位90后末班车乘客。</p>
 <p>&emsp;&emsp;一条躺平的咸鱼，热爱计算机科学和IT互联网事业！</p>
 <p>&emsp;&emsp;在这个浮躁的社会里，卷又卷不起来，躺又躺不平，45°的摆烂人生</p>
