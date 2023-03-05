@@ -1,6 +1,4 @@
 
-<div align="center">
-
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://www.ztyang.com">
@@ -20,21 +18,17 @@
 
 #  🙋 Hello
 
-<table>
-<tr><td>
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/ztyangt/ztyangt/assets/images/hi.gif" />
 
-<p>&emsp;&emsp;大家好，我是相左。</p>
+<p>&emsp;&emsp;我是相左。</p>
 <p>&emsp;&emsp;一个擅长煮面的厨师，一位90后末班车乘客。</p>
 <p>&emsp;&emsp;一条躺平的咸鱼，热爱计算机科学和IT互联网事业！</p>
 <p>&emsp;&emsp;在这个浮躁的社会里，卷又卷不起来，躺又躺不平，45°的摆烂人生</p>
 <p>&emsp;&emsp;生活可以漂泊，但灵魂必须有所归依，生活再艰难，要记得微笑。</p>
 
-</td>
 
 
   
