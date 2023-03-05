@@ -6,10 +6,10 @@
     </a>
   
     <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-  <img width="150" src="/assets/right.svg" />&emsp;
+  <img width="150" src="/images/right.svg" />&emsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ztyangt&theme=tokyonight&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" />
   &emsp;
-  <img width="150" src="/assets/left.svg" />
+  <img width="150" src="/images/left.svg" />
     
   </div>
   
