@@ -32,7 +32,7 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ztyangt&count_private=true&show_icons=true&hide_border=true&theme=github_dark&bg_color=#00000000" alt="Activity"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ztyangt&count_private=true&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000" alt="Activity"/></td>
      <td><img src="https://github-readme-streak-stats.herokuapp.com?user=ztyangt&hide_border=true&theme=tokyonight-duo&date_format=%5BY.%5Dn.j"/></td>
   </tr>
 </table>
