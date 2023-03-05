@@ -18,8 +18,24 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=ztyangt" alt="访客统计" />
   </div>
 
-    <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/ztyangt/ztyangt/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+#  🙋 Hello
+
+<table>
+<tr><td>
+
+<!-- About me 关于我 -->
+### 🤺 About Me
+
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/ztyangt/ztyangt/assets/images/hi.gif" />
+
+<p>&emsp;&emsp;大家好，我是相左。</p>
+<p>&emsp;&emsp;一个擅长煮面的厨师，一位90后末班车乘客。</p>
+<p>&emsp;&emsp;一条躺平的咸鱼，热爱计算机科学和IT互联网事业！</p>
+<p>&emsp;&emsp;在这个浮躁的社会里，卷又卷不起来，躺又躺不平，45°的摆烂人生</p>
+<p>&emsp;&emsp;生活可以漂泊，但灵魂必须有所归依，生活再艰难，要记得微笑。</p>
+
+
+
   
 ![Ztyangt's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztyangt&count_private=true&show_icons=true&&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztyangt)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztyangt)](https://github.com/anuraghazra/github-readme-stats) -->
