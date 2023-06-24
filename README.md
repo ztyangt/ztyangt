@@ -6,7 +6,7 @@
     <a href="https://kodo.ztyang.com/img/qqqrcode.jpg" target="_blank"><img src="https://img.shields.io/badge/QQ-qq-0e9bf" /></a>&emsp;
     <a href="https://space.bilibili.com/351669544/" target="_blank"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
         <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=ztyangt" alt="访客统计" />
+    <img src="https://komarev.com/ghpvc/?username=ztyangt&label=Views&color=0e75b6&style=flat" alt="访客统计" />
   </div>
   
   
