@@ -12,7 +12,7 @@
   
 <table align="center" style="margin-top: 20px;">
   <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=ztyangt&theme=xcode&bg_color=ff000000&color=73b4ff&area=true&hide_border=true" alt="Activity"/></td>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=ztyangt&theme=xcode&bg_color=ff000000&color=ff8070&area=true&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
 
