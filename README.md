@@ -10,7 +10,7 @@
   </div>
   
   
-<table align="center">
+<table align="center" style="margin-top: 20px;">
   <tr>
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=ztyangt&theme=xcode&bg_color=FF000000&hide_border=true&theme=github-light" alt="Activity"/></td>
   </tr>
