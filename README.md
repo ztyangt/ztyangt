@@ -12,6 +12,8 @@
   
 <table align="center" style="margin-top: 20px;">
   <tr>
+    
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=ztyangt&bg_color=ffffff&color=592255&line=f000e0&point=d40202&area=true&hide_border=true" alt="Activity"/></td>
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=ztyangt&theme=xcode&bg_color=FF000000&hide_border=true&text_color=dacdd9" alt="Activity"/></td>
   </tr>
 </table>
